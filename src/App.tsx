@@ -116,6 +116,7 @@ export default function App() {
     }
 }
 
+
   /**
    * @description prompts user to connect wallet if it exists.
    * This function is called when the Connect to Phantom Wallet button is clicked
